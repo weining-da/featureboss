@@ -3,4 +3,5 @@ install the latest version of nodejs (use npm n package);
 
 install gherkin-lint npm package
 
+borrow this rc file from: <https://medium.com/@virtim/how-we-implemented-gherkin-lint-and-why-you-should-too-6faac532d2a>
 
